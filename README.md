@@ -1,6 +1,6 @@
-# Project Name
+# SQLZoo Answers
 
-> One paragraph statement about the project.
+> Working answers for the lessons featured on https://sqlzoo.net/wiki/SQL_Tutorial
 
 ![screenshot](./app_screenshot.png)
 
@@ -8,50 +8,16 @@ Additional description about the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+- SQLite
 
 ## Authors
 
-👤 **Author1**
+👤 **Meltrust**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@meltrust](https://github.com/meltrust)
+- Linkedin: [meltrust](https://linkedin.com/meltrust)
 
-👤 **Author2**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
 
 ## 🤝 Contributing
 
