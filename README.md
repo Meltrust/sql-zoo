@@ -2,7 +2,7 @@
 
 > Working answers for the lessons featured on https://sqlzoo.net/wiki/SQL_Tutorial
 
-![screenshot](./app_screenshot.png)
+![screenshot](./screenshot.png)
 
 Additional description about the project and its features.
 
