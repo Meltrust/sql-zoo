@@ -71,3 +71,5 @@ FROM
      world
 WHERE
      name IN ('China', 'Nigeria', 'France', 'Australia');
+
+--END
