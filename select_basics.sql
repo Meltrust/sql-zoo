@@ -1,13 +1,73 @@
--- 1.
-SELECT population
-FROM world
-WHERE name = 'Germany'
--- 2. show name and populations of sweden, norway and denmark
-SELECT name,
-       population
-FROM world IN ( 'Sweden', 'Norway', 'Denmark' )
--- 3. show name and area between 200000 and 250000
-SELECT name,
-       area
-FROM world BETWEEN 200000
-     AND 250000
+-- SELECT 'BASICS'
+SELECT
+     population
+FROM
+     world
+WHERE
+     name = 'Germany';
+
+SELECT
+     name,
+     population
+FROM
+     world
+WHERE
+     name IN ('Sweden', 'Norway', 'Denmark');
+
+SELECT
+     name,
+     area
+FROM
+     world
+WHERE
+     area BETWEEN 200000
+     AND 250000;
+
+-- SELECT 'BASICS QUIZ' 
+--1
+SELECT
+     name,
+     population
+FROM
+     world
+WHERE
+     population BETWEEN 1000000
+     AND 1250000;
+
+--2
+TABLE E;
+
+--3
+SELECT
+     name
+FROM
+     world
+WHERE
+     name LIKE '%a'
+     OR name LIKE '%l';
+
+--4
+answer IS TABLE 3;
+
+--5
+answer IS TABLE 3;
+
+--6
+SELECT
+     name,
+     area,
+     population
+FROM
+     world
+WHERE
+     area > 50000
+     AND population < 10000000;
+
+--7
+SELECT
+     name,
+     population / area
+FROM
+     world
+WHERE
+     name IN ('China', 'Nigeria', 'France', 'Australia');
